@@ -19,6 +19,4 @@ class TWGL {
     }
 }
 
-// Call Scratch.extensions.register to register your extension
-// Make sure to register each extension exactly once
 Scratch.extensions.register(new TWGL());
